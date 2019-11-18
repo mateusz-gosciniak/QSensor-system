@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/ikony">
+        <file>zasoby/close.png</file>
+        <file>zasoby/artificial horizon.png</file>
+        <file>zasoby/control.png</file>
+        <file>zasoby/terminal.png</file>
+        <file>zasoby/options.png</file>
+        <file>zasoby/icon.png</file>
+        <file>zasoby/3D view.png</file>
+    </qresource>
+</RCC>
